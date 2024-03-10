@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "model=0": {
+      "model": "tutorialmod:block/state_block_0"
+    },
+    "model=1": {
+      "model": "tutorialmod:block/state_block_1"
+    },
+    "model=2": {
+      "model": "tutorialmod:block/state_block_2"
+    },
+    "model=3": {
+      "model": "tutorialmod:block/state_block_3"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "item.tutorialmod.sapphire": "Sapphire",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab",
+
+  "block.tutorialmod.sound_block": "Sound Block",
+
+  "block.tutorialmod.new_entity": "New Entity",
+
+  "gui.tutorialmodnew_entity_block_screen": "Example Screen",
+
+  "gui.tutorialmodnew_entity_block_screen.button.example_button": "Button",
+
+  "gui.tutorialmodinput_block_screen.button.compute_button": "Compute",
+
+  "gui.tutorialmodtransition_block_screen.button.save_button": "Save",
+
+  "block.tutorialmod.input_block": "Input Block",
+
+  "block.tutorialmod.transition_block": "Transition Block",
+
+  "block.tutorialmod.state_block": "State Block",
+
+  "block.tutorialmod.output_block" : "Output Block"
+}
