@@ -1,7 +1,7 @@
 # Finite Automata Mod
 a Minecraft mod for 1.20.1 adding finite automaton capabilities
 
-[DevPost link for GrizzHacks 6] (https://devpost.com/software/finite-automata-minecraft-mod)
+[DevPost link for GrizzHacks 6](https://devpost.com/software/finite-automata-minecraft-mod)
 
 # Setup
 This is mainly guided for IntelliJ users, although other IDEs likely cause no issue.
