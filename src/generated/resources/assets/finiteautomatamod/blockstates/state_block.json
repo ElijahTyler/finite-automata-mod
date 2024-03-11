@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "model=0": {
+      "model": "finiteautomatamod:block/state_block_0"
+    },
+    "model=1": {
+      "model": "finiteautomatamod:block/state_block_1"
+    },
+    "model=2": {
+      "model": "finiteautomatamod:block/state_block_2"
+    },
+    "model=3": {
+      "model": "finiteautomatamod:block/state_block_3"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IAI",
+    "ORO",
+    "SSS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }, "A": {
+      "item": "minecraft:amethyst_shard"
+    }, "O": {
+      "item": "minecraft:observer"
+    }, "R": {
+      "item": "minecraft:redstone"
+    }, "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "finiteautomatamod:transition_block"
+  }
+}

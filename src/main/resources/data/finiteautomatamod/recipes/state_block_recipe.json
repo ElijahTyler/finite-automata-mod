@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IAI",
+    "OLO",
+    "SSS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }, "A": {
+      "item": "minecraft:amethyst_shard"
+    }, "L": {
+      "item": "minecraft:redstone_lamp"
+    }, "O": {
+      "item": "minecraft:observer"
+    }, "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "finiteautomatamod:state_block"
+  }
+}

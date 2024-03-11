@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "finiteautomatamod:block/output_block"
+    }
+  }
+}

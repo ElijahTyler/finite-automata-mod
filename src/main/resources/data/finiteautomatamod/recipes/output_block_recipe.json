@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IAI",
+    "RTR",
+    "SSS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }, "A": {
+      "item": "minecraft:amethyst_shard"
+    }, "T": {
+      "item": "minecraft:redstone_torch"
+    }, "R": {
+      "item": "minecraft:redstone"
+    }, "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "finiteautomatamod:output_block"
+  }
+}

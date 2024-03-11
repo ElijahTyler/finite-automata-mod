@@ -1,0 +1,23 @@
+{
+  "creativetab.finite_automata_tab": "Here lie the 'puters",
+
+  "block.finiteautomatamod.sound_block": "Sound Block",
+
+  "block.finiteautomatamod.new_entity": "New Entity",
+
+  "gui.finiteautomatamodnew_entity_block_screen": "Example Screen",
+
+  "gui.finiteautomatamodnew_entity_block_screen.button.example_button": "Button",
+
+  "gui.finiteautomatamodinput_block_screen.button.compute_button": "Figure it out",
+
+  "gui.finiteautomatamodtransition_block_screen.button.save_button": "Save",
+
+  "block.finiteautomatamod.input_block": "Incomin' barrage",
+
+  "block.finiteautomatamod.transition_block": "Changin' course",
+
+  "block.finiteautomatamod.state_block": "Holdin' steady",
+
+  "block.finiteautomatamod.output_block" : "Outgoin' message"
+}

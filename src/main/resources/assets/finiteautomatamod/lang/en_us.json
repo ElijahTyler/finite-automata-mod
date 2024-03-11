@@ -1,0 +1,23 @@
+{
+  "creativetab.finite_automata_tab": "Finite Automata",
+
+  "block.finiteautomatamod.sound_block": "Sound Block",
+
+  "block.finiteautomatamod.new_entity": "New Entity",
+
+  "gui.finiteautomatamodnew_entity_block_screen": "Example Screen",
+
+  "gui.finiteautomatamodnew_entity_block_screen.button.example_button": "Button",
+
+  "gui.finiteautomatamodinput_block_screen.button.compute_button": "Compute",
+
+  "gui.finiteautomatamodtransition_block_screen.button.save_button": "Save",
+
+  "block.finiteautomatamod.input_block": "Input Block",
+
+  "block.finiteautomatamod.transition_block": "Transition Block",
+
+  "block.finiteautomatamod.state_block": "State Block",
+
+  "block.finiteautomatamod.output_block" : "Output Block"
+}
